@@ -1,0 +1,18 @@
+{
+    "person": {
+        "firstName": "wendy",
+        "lastName": "chen"
+    },
+    "work": {
+        "job": "faculty",
+        "program": "Digital Desiign and Development Diploma",
+        "url": "https://www.bcit.ca/study/?gclid=EAIaIQobChMIroiI7MGc-wIVSAytBh1B7AIREAAYASAAEgJ31fD_BwE&gclsrc=aw.ds"
+    },
+    "study": {
+        "programs": [
+            "Applied Software Development Certificate",
+            "Computer Systems Certificate"
+        ],
+        "department": "Scool of Computing & Information Technology"
+    }
+}
